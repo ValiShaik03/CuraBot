@@ -10,7 +10,30 @@
 - Use multiple AI providers (OpenAI, Groq, Gemini, Cohere)  
 
 ---
+## Tech Stack
 
+- **Python 3.10+**  
+- **Streamlit** — Web app interface  
+- **SQLite** — Local database for storing user accounts and conversation history  
+- **LangChain & PyPDF2** — PDF processing and RAG (retrieval-augmented generation)  
+- **OpenAI / Groq / Google Gemini / Cohere** — AI response providers  
+- **dotenv** — For managing API keys securely 
+
+## Folder Structure
+```
+healthmate-curabot/
+├─ main.py
+├─ requirements.txt
+├─ .env
+├─ users1.db
+├─ README.md
+├─ screenshots/
+    ├─ homepage
+    ├─ signuppage
+    ├─ loginpage
+    ├─ general_medical_bot
+    ├─ chat_with_reports
+```
 ## Project Preview
 
 ## 🖼️ Project Preview
