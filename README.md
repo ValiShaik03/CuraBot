@@ -1,7 +1,6 @@
-# CuraBot
 # CuraBot — HealthMate
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-orange.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-orange.svg) ![SQLite](https://img.shields.io/badge/SQLite-3.41.2-lightgrey.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) 
 
 🤖 **CuraBot (HealthMate)** is a personal AI-powered health assistant. It lets you:
 
