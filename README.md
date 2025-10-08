@@ -13,7 +13,7 @@
 
 ## Demo
 
-![CuraBot Demo GIF](link-to-your-demo-gif)  
+![CuraBot Demo GIF](https://github.com/ValiShaik03/CuraBot/blob/1f32f3d37a6a0407d345e450122321bd44bfbfc9/screenshots/home.png)  
 
 ---
 
