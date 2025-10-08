@@ -11,10 +11,20 @@
 
 ---
 
-## Demo
+## Project Preview
 
-![CuraBot Demo GIF](https://github.com/ValiShaik03/CuraBot/blob/1f32f3d37a6a0407d345e450122321bd44bfbfc9/screenshots/home.png)  
+## 🖼️ Project Preview
 
+HomePage<br>
+![CuraBot Homepage](https://github.com/ValiShaik03/CuraBot/blob/d417bea099f5fc0050eb9a6fd2659523b928fc86/screenshots/home.png) <br>
+SignUpPage
+![CuraBot signuppage](https://github.com/ValiShaik03/CuraBot/blob/d417bea099f5fc0050eb9a6fd2659523b928fc86/screenshots/signup.png)<br>
+LogInPage
+![CuraBot_loginpage](https://github.com/ValiShaik03/CuraBot/blob/d417bea099f5fc0050eb9a6fd2659523b928fc86/screenshots/login.png)<br>
+General Medical Bot
+![CuraBot_general_medical_bot](https://github.com/ValiShaik03/CuraBot/blob/d417bea099f5fc0050eb9a6fd2659523b928fc86/screenshots/general_medical_bot.png)<br>
+Chat With Reports
+![CuraBot_chat_with_reports](https://github.com/ValiShaik03/CuraBot/blob/d417bea099f5fc0050eb9a6fd2659523b928fc86/screenshots/chat_with_reports.png)
 ---
 
 ## Features
